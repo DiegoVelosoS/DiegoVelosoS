@@ -1,6 +1,11 @@
-## Diego VelosoS, aqui.
+## Diego VelosoS, aqui................................
+<div style="display: flex;">
+    <img alt="Di-Status" height="200" width="400"
+      src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="GitHub stats">
+    <img alt="Di-Gif" width="25%" 
+      src="https://github.com/DiegoVelosoS/DiegoVelosoS/assets/124423575/181002cc-1f75-43fa-8d4a-eef093b7ca6c" alt="Gif>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Di-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,8 +24,8 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/diegovelosos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/diego.velosos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:admdiegoveloso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  <a href="https://www.linkedin.com/in/diegovelosos/" target="_blank"><img align="center" alt="D" height="30" width="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:admdiegoveloso@gmail.com"><img align="center" alt="D" height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5595991150093"><img align="center" alt="D" height="30" width="100" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+
