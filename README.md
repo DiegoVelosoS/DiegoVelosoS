@@ -7,7 +7,7 @@
   <a href="https://github.com/DiegoVelosoS">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegovelosos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoVelosoS&layout=compact&langs_count=7&theme=gotham"/>
-  <img alt="Di-Gif" height="160" width="180"
+  <img alt="Di-Gif" height="140" width="160"
       src="https://github.com/DiegoVelosoS/DiegoVelosoS/assets/124423575/1e507a44-fab1-4627-ad0f-1e11c58162c6" alt="Gif>
 </div>
 
