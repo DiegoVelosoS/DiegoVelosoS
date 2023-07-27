@@ -1,7 +1,9 @@
 <div align="center">
-  <img align="center" alt="Di-png" height="90" src="https://github.com/DiegoVelosoS/DiegoVelosoS/assets/124423575/39357353-674f-47c0-80cd-4fce47eff597"></br>
-  ...Diego...
+  <img align="center" alt="Di-png" height="90"
+    src="https://github.com/DiegoVelosoS/DiegoVelosoS/assets/124423575/6abb10d5-9a8b-4443-9a5d-6bd6e05efb97"></br>
+  ...DIEGO...
 </div>
+
 
 <div align="center">
   <a href="https://github.com/DiegoVelosoS">
