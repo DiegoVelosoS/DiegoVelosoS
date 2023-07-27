@@ -1,8 +1,8 @@
 <div align="center">
   <img align="center" alt="Di-png" height="90" src="https://github.com/DiegoVelosoS/DiegoVelosoS/assets/124423575/39357353-674f-47c0-80cd-4fce47eff597"></br>
   ...Diego...
-</div></br>
-  
+</div>
+
 <div align="center">
   <a href="https://github.com/DiegoVelosoS">
   <img height="120em"
