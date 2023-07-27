@@ -7,7 +7,7 @@
   <a href="https://github.com/DiegoVelosoS">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegovelosos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoVelosoS&layout=compact&langs_count=7&theme=gotham"/>
-  <img alt="Di-Gif" height="100" width="120"
+  <img alt="Di-Gif" height="140" width="160"
       src="https://github.com/DiegoVelosoS/DiegoVelosoS/assets/124423575/1e507a44-fab1-4627-ad0f-1e11c58162c6" alt="Gif>
 </div>
 
@@ -15,7 +15,7 @@
   <img align="center" alt="Di-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Di-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Di-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Di-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Di-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
 
